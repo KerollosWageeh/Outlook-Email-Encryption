@@ -1,4 +1,4 @@
-***CSE451 Computer and Network Security - Secure Email Communication System***
+# **CSE451 Computer and Network Security - Secure Email Communication System**
 
 This project implements a secure email communication system with robust encryption features, leveraging Microsoft Outlook for seamless integration. Below is a concise README guide:
 
